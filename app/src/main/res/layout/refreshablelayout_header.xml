@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/headerTotalLayout"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:id="@+id/headerMidLayout"
+        android:layout_width="160dp"
+        android:layout_height="80dp"
+        android:layout_centerInParent="true"
+        android:orientation="horizontal">
+
+        <com.hougr.smartisanpull.SmartisanCircleView
+            android:id="@+id/smartisanView"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"/>
+
+        <TextView
+            android:id="@+id/descriptionTextView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:layout_weight="5"
+            android:layout_gravity="center_vertical"/>
+
+    </LinearLayout>
+
+    <!--<TextView-->
+        <!--android:id="@+id/zhedangTextView"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="40dp"-->
+        <!--android:layout_marginTop="40dp"-->
+        <!--android:background="#ffffff"-->
+        <!--android:text=""/>-->
+
+</RelativeLayout>
