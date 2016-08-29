@@ -4,10 +4,7 @@
 
 github地址：https://github.com/hougr/SmartisanPull
 
-
-![录屏](http://7xj90z.com1.z0.glb.clouddn.com/smartisan_pull_small.gif)
-
-如果动图无法加载，没关系。这是优酷上的演示视频：[锤子下拉演示视频](http://v.youku.com/v_show/id_XMTcwNTAyODU5Ng==.html?beta&)
+这是优酷上的演示视频：[锤子下拉演示视频](http://v.youku.com/v_show/id_XMTcwNTAyODU5Ng==.html?beta&)
 
 # 说明
 本项目模仿“锤子阅读”的下拉效果。仅供学习交流，请勿用于商业用途。
