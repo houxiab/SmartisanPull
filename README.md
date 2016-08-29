@@ -5,8 +5,9 @@
 github地址：https://github.com/hougr/SmartisanPull
 
 
-![录屏](http://7xj90z.com1.z0.glb.clouddn.com/Gif_20160829_195807.gif)
+![录屏](http://7xj90z.com1.z0.glb.clouddn.com/smartisan_pull_small.gif)
 
+如果动图无法加载，没关系。这是优酷上的演示视频：[锤子下拉演示视频](http://v.youku.com/v_show/id_XMTcwNTAyODU5Ng==.html?beta&)
 
 # 说明
 本项目模仿“锤子阅读”的下拉效果。仅供学习交流，请勿用于商业用途。
@@ -22,7 +23,7 @@ github地址：https://github.com/hougr/SmartisanPull
 4. 刷新距离以下，摩擦系数越来越大。
 5. 如果手指向上返回，动画逐渐回到原始状态。
 6. 两圆弧的旋转始终是平滑的，只有速度变化。
-7. 最后，两圆弧逐渐过渡成线段，消失在两端
+7. 最后，两圆弧逐渐过渡成线段，消失在两端。
 
 
 喜欢的话，可以在github上赏我一颗star。感谢。
