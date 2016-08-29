@@ -4,7 +4,7 @@
 
 github地址：https://github.com/hougr/SmartisanPull
 
-这是优酷上的演示视频：[锤子下拉演示视频](http://v.youku.com/v_show/id_XMTcwNTAyODU5Ng==.html?beta&)
+这是优酷上的演示视频：[演示视频](http://v.youku.com/v_show/id_XMTcwNTAyODU5Ng==.html?beta&)
 
 # 说明
 本项目模仿“锤子阅读”的下拉效果。仅供学习交流，请勿用于商业用途。
@@ -22,5 +22,5 @@ github地址：https://github.com/hougr/SmartisanPull
 6. 两圆弧的旋转始终是平滑的，只有速度变化。
 7. 最后，两圆弧逐渐过渡成线段，消失在两端。
 
-
-喜欢的话，可以在github上赏我一颗star。感谢。
+# 拜托
+喜欢的话，可以点击右上角的star。感谢。
