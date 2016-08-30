@@ -14,9 +14,9 @@
 
 ### 到达刷新距离前
 
-<img src="http://7xj90z.com1.z0.glb.clouddn.com/smartisan_pull0.png" width = "300" height = "200" alt="到达刷新距离前1" align=center />
+<img src="./screenshot/smartisan_pull0.png" width = "300" height = "200" alt="到达刷新距离前1" align=center />
 
-<img src="http://7xj90z.com1.z0.glb.clouddn.com/smartisan_pull1.png" width = "300" height = "200" alt="到达刷新距离前1" align=center />
+<img src="./screenshot/smartisan_pull1.png" width = "300" height = "200" alt="到达刷新距离前1" align=center />
 
 1. 下拉时先把item0上面的分隔线滚动出来，该分隔线在下拉过程中一直显示，直到header完全消失，它才重新藏起来。
 2. 到达刷新距离前，提示语逐渐清晰。
@@ -24,21 +24,20 @@
 
 ### 到达刷新距离时
 
-<img src="http://7xj90z.com1.z0.glb.clouddn.com/smartisan_pull2.png" width = "300" height = "200" alt="到达刷新距离前1" align=center />
+<img src="./screenshot/smartisan_pull2.png" width = "300" height = "200" alt="到达刷新距离前1" align=center />
 
 两圆弧刚好各转半圈，两圆弧间的两个缺口处于同一水平线。
 
 ### 到达刷新距离以下
 
-<img src="http://7xj90z.com1.z0.glb.clouddn.com/smartisan_pull3.png" width = "300" height = "200" alt="到达刷新距离前1" align=center />
-
+<img src="./screenshot/smartisan_pull3.png" width = "300" height = "200" alt="到达刷新距离前1" align=center />
 刷新距离以下，摩擦系数越来越大。
 
 两圆弧的旋转始终是平滑的，只有速度变化。
 
 ### 最后
 
-<img src="http://7xj90z.com1.z0.glb.clouddn.com/smartisan_pull4.png" width = "300" height = "200" alt="到达刷新距离前1" align=center />
+<img src="./screenshot/smartisan_pull4.png" width = "300" height = "200" alt="到达刷新距离前1" align=center />
 
 最后，两圆弧逐渐过渡成线段，消失在两端。
 
