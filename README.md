@@ -2,6 +2,8 @@
 
 “锤子下拉”，东半球最优雅的下拉控件。（也叫SmartisanRefreshableLayout。）
 
+<img src="./screenshot/smartisan_pull_small.gif" width = "300" height = "200" alt="录屏gif" align=center />
+
 这是优酷上的演示视频：[演示视频](http://v.youku.com/v_show/id_XMTcwNTAyODU5Ng==.html?beta&)
 
 # 说明
