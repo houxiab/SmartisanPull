@@ -31,6 +31,7 @@
 ### 到达刷新距离以下
 
 <img src="./screenshot/smartisan_pull3.png" width = "300" height = "200" alt="到达刷新距离前1" align=center />
+
 刷新距离以下，摩擦系数越来越大。
 
 两圆弧的旋转始终是平滑的，只有速度变化。
