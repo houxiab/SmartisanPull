@@ -1,12 +1,17 @@
 # 锤子下拉
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-SmartisanPull-green.svg?style=true)](https://android-arsenal.com/details/3/4257)
+
 “锤子下拉”，东半球最优雅的下拉控件。（也叫SmartisanRefreshableLayout。）
 
 <img src="./screenshot/smartisan_pull_small.gif" width = "300" height = "200" alt="录屏gif" align=center />
 
+涉及到的知识点包括：自定义View、自定义ViewGroup、事件分发、属性动画等。
 
 # 说明
 本项目模仿“锤子阅读”的下拉效果。仅供学习交流，请勿用于商业用途。
+
+Because the animation in my project imitates the one in Smartisan OS. Only communicate using, please do not used for commercial purposes or illegal purposes, thank you!
 
 
 # 介绍
@@ -68,5 +73,34 @@ mSmartisanRefreshableLayout.setOnRefreshListener(new SmartisanRefreshableLayout.
         
 ```
 
+# 接下来
+
+接下来，会增加对RecyclerView的支持。
+
 # 拜托
+
 喜欢的话，可以点击右上角的star。感谢。
+
+# License 代码版权
+
+    The MIT License (MIT)
+
+    Copyright (c) 2016 hougr
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included in all
+    copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE.
